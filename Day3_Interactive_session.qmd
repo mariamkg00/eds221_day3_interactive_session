@@ -52,7 +52,7 @@ if (housing_type == "whole") {
 }
 ```
 
-## For loops 
+## For loops
 
 ```{r}
 height <- c(58, 61, 65, 72, 89, 94)
